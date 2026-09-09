@@ -78,5 +78,3 @@ Sistema de gerenciamento de tarefas desenvolvido em **Python**.
 ⚙️ Algoritmos
 🔧 Git & GitHub
 ☕ Java
-<a href="https://github.com/KairoDias7"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/> </div> ```
