@@ -34,15 +34,8 @@ Meu objetivo é transformar conhecimento em projetos reais e evoluir constanteme
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=react)](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=react)
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KairoDias7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoDias7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
