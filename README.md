@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou Kairo Dias!
 
-<!--
-**KairoDias7/KairoDias7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desenvolvedor Backend em formação
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🐍 Atualmente estudando Python  
+☕ Próximo passo: Java  
+🗄️ Interessado em Backend, Banco de Dados e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL
+- 🔧 Git
+- 🐙 GitHub
+- 🌐 HTML
+- 🎨 CSS
+
+---
+
+## 📂 Projetos
+
+### 📋 Organizador de Tarefas
+Sistema de gerenciamento de tarefas desenvolvido em Python.
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- Lógica de programação
+- Algoritmos
+- Git e GitHub
+- Banco de dados
+- Java
+
+---
+
+## 🎯 Objetivo
+
+Me tornar um desenvolvedor Backend e continuar evoluindo através de projetos práticos.
