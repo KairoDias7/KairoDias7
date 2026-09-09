@@ -34,17 +34,16 @@ Meu objetivo é transformar conhecimento em projetos reais e evoluir constanteme
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KairoDias7&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KairoDias7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoDias7&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoDias7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 ---
 
 <div align="center"> Transformar conhecimento em projetos reais,
