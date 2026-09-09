@@ -1,87 +1,82 @@
 <div align="center">
 
-# 👨‍💻 KAIRO DIAS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kairo%20Dias&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### BACKEND DEVELOPER IN PROGRESS
-
-🐍 Python • ☕ Java • 🗄️ SQL • 🔧 Git
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Python+%7C+Java+%7C+SQL;Construindo+meu+futuro+na+tecnologia" />
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+## 👨‍💻 Sobre mim
 
-💻 Desenvolvedor Backend em formação
+</div>
 
-🐍 Atualmente estudando Python
+Olá! Eu sou **Kairo Dias**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Backend em formação.
 
-☕ Próximo passo: Java
+Atualmente estou focado em aprender programação, lógica, algoritmos e desenvolvimento de sistemas.
 
-🗄️ Interessado em Backend, Banco de Dados e Desenvolvimento de Sistemas
+Tenho interesse principalmente em **Backend, Python, Java e Banco de Dados**.
+
+Meu objetivo é transformar conhecimento em projetos reais e evoluir constantemente como desenvolvedor.
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,html,css,vscode" />
 
 </div>
+
 ---
-
-## 🚀 Projetos
-
-### 📋 Organizador de Tarefas
-
-Sistema de gerenciamento de tarefas desenvolvido em Python.
-
-<a href="https://github.com/KairoDias7/Organizador-de-Tarefas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairoDias7&repo=Organizador-de-Tarefas&theme=tokyonight" />
-</a>
----
-
-## 📊 GitHub Stats
 
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KairoDias7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoDias7&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
+
 ---
 
-## 📚 Atualmente estudando
+<div align="center"> Transformar conhecimento em projetos reais,
+aprender continuamente e me tornar um
+desenvolvedor Backend cada vez melhor.
 
-- 🐍 Python
-- 🧠 Lógica de programação
-- ⚙️ Algoritmos
-- 🗄️ Banco de dados
-- 🔧 Git e GitHub
-- ☕ Java
----
+## 🚀 Projetos
 
-## 🎯 Objetivo
+</div>
 
-Me tornar um desenvolvedor Backend, construindo projetos
-práticos e evoluindo continuamente minhas habilidades em
-programação e desenvolvimento de sistemas.
+### 📋 Organizador de Tarefas
+
+Sistema de gerenciamento de tarefas desenvolvido em **Python**.
+
+<a href="https://github.com/KairoDias7/Organizador-de-Tarefas">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KairoDias7&repo=Organizador-de-Tarefas&theme=tokyonight"/>
+
+</a>
+
 ---
 
 <div align="center">
 
-### 📫 Vamos nos conectar?
-
-<a href="https://github.com/KairoDias7">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+## 📚 Atualmente estudando
 
 </div>
+
+```text
+🐍 Python
+🧠 Lógica de Programação
+⚙️ Algoritmos
+🔧 Git & GitHub
+☕ Java
+<a href="https://github.com/KairoDias7"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/> </div> ```
