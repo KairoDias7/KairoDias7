@@ -40,8 +40,8 @@ Meu objetivo é transformar conhecimento em projetos reais e evoluir constanteme
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=react)](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=react)
 
 </div>
----
 
+---
 <div align="center"> Transformar conhecimento em projetos reais,
 aprender continuamente e me tornar um
 desenvolvedor Backend cada vez melhor.
