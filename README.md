@@ -33,10 +33,13 @@ Meu objetivo é transformar conhecimento em projetos reais e evoluir constanteme
 </div>
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
+<div align="center">
+  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=react)](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=react)
 
-
+</div>
 ---
 
 <div align="center"> Transformar conhecimento em projetos reais,
