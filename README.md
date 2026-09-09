@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kairo%20Dias&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Python+%7C+Java+%7C+SQL;Construindo+meu+futuro+na+tecnologia" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=#00BFFFcenter=true&vCenter=true&width=600&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Python+%7C+Java+%7C+SQL;Construindo+meu+futuro+na+tecnologia" />
 
 </div>
 
